@@ -1,1 +1,1 @@
-# The-Ultimate-MySQL-Bootcamp
+# The Ultimate MySQL Bootcamp

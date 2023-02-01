@@ -40,13 +40,3 @@ VALUES ('Dragoev', 'Peter', 'Ivanov', 29, 3),
 
 DESCRIBE employees;
 DESCRIBE work_places;
-
-
-
-
-
-
-
-
-
-

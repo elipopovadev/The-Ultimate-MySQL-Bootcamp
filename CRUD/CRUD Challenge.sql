@@ -51,7 +51,7 @@ MODIFY COLUMN shirt_size CHAR(2);
 
 UPDATE shirts
 SET color = 'off white',
-	shirt_size = 'XS'
+    shirt_size = 'XS'
 WHERE color = 'white';
 
 DELETE FROM shirts

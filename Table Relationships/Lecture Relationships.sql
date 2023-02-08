@@ -21,19 +21,19 @@ CREATE TABLE orders
 
 INSERT INTO customers (first_name, last_name, email)
 VALUES ('Boy', 'George', 'boy@abv.bg'),
-	   ('George','Michael','george@abv.bg'),
+       ('George','Michael','george@abv.bg'),
        ('David','Bowie','david@abv.bg'),
        ('Blue','Steele','blue@abv.bg'),
        ('Ana','Ivanova','ana@abv.bg');
        
 INSERT INTO orders(order_date, amount, customer_id)
 VALUES ('2019-02-10', 100.34, 1),
-	   ('2022-03-10',200.25, 1),
+       ('2022-03-10',200.25, 1),
        ('2023-02-09',234.39, 2),
        ('2023-01-26',345.34, 3),
-	   ('2022-03-10',200.25, 3),
+       ('2022-03-10',200.25, 3),
        ('2022-03-10',200.25, 1),
-	   ('2022-03-10',200.25, 4),
+       ('2022-03-10',200.25, 4),
        ('2022-03-10',200.25, 4);
        
 SELECT customers.first_name, customers.last_name, customers.email,

@@ -65,5 +65,4 @@ LEFT JOIN orders
 ON customers.customer_id = orders.customer_id
 GROUP BY customers.first_name, customers.last_name
 ORDER BY total_amount DESC;
-
        

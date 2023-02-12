@@ -1,5 +1,5 @@
-    CREATE DATABASE istagram_db;
-    USE istagram_db;
+    CREATE DATABASE instagram_db;
+    USE instagram_db;
     
     CREATE TABLE users 
     (

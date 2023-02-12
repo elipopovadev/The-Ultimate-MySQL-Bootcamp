@@ -19,7 +19,8 @@
     );
      
      
-    CREATE TABLE comments (
+    CREATE TABLE comments
+    (
         id INTEGER AUTO_INCREMENT PRIMARY KEY,
         comment_text VARCHAR(255) NOT NULL,
         photo_id INTEGER NOT NULL,

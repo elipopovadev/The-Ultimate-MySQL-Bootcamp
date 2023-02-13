@@ -21,3 +21,5 @@
    * Work with MySQL 8.x Window Functions: RANK, LEAD, LAG, NTILE, etc.
 
    * Create MySQL database views and virtual tables
+   
+   [The Ultimate MySQL Bootcamp.pdf](https://github.com/elipopovadev/The-Ultimate-MySQL-Bootcamp/files/10723118/The.Ultimate.MySQL.Bootcamp.pdf) 

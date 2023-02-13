@@ -28,7 +28,7 @@ $$
 
 DELIMITER ;
 
-
+-- Example
 INSERT INTO follows(follower_id, followee_id)
 VALUES(6,6);
 

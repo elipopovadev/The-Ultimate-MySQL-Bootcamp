@@ -21,3 +21,7 @@
    * Work with MySQL 8.x Window Functions: RANK, LEAD, LAG, NTILE, etc.
 
    * Create MySQL database views and virtual tables
+   
+   
+   
+   ![Screenshot 2023-02-13 at 16-27-53 UC-7fdd3e53-29b0-472a-9506-1d11166964e8 jpg (JPEG Image 1600 × 1190 pixels) — Scaled (57%)](https://user-images.githubusercontent.com/75258625/218484768-24793c17-a260-4ed2-9f97-8797c4b81082.png) 
